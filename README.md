@@ -1,1 +1,2 @@
-This is a new prohect
+This is a new project
+
